@@ -2,6 +2,6 @@
 
 int main(){
     int num = 1;
-    printf("the answer is %d",  num);
+    printf("the answer: %d",  num);
     return 0;
 }
